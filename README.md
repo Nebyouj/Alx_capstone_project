@@ -1,7 +1,7 @@
 
 # **EthioSphere - Social Media API**
 
-PostFlow is a social media API built with Django that allows users to create, update, and delete posts, follow other users, and interact with content through likes, dislikes, and comments. This project will serve as the backend for a social media platform.
+EthioSphere is a social media API built with Django that allows users to create, update, and delete posts, follow other users, and interact with content through likes, dislikes, and comments. This project will serve as the backend for a social media platform.
 
 ---
 
