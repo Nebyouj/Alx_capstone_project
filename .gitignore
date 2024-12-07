@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Virtual Environment
+venv/
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+
+# Environment Variables
+.env
+
+# Pipenv
+Pipfile
+Pipfile.lock
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
