@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class CoresphereConfig(AppConfig):
+class SphereConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'CoreSphere'
+    name = 'sphere'
